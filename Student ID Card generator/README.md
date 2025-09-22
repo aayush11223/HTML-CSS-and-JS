@@ -4,7 +4,8 @@ In this project we walk through the process of creating an ID card generator usi
 
 Learnings:
 
-Accessing Input Values
-Updating HTML Dynamically
-DOM Manipulation for Visibility
-Connecting Form Data with UI
+- Accessing Input Values
+- Updating HTML Dynamically
+- DOM Manipulation for Visibility
+- Connecting Form Data with UI
+
